@@ -207,3 +207,32 @@ Every project I build is an opportunity to learn something new, improve my engin
 </p>
 
 ---
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/SaivigneshDev/SaivigneshDev/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/saivignesh-marapelli">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+<p align="center">
+
+### Code with Curiosity • Build with Purpose • Never Stop Learning
+
+⭐ Thank you for visiting my profile!
+
+</p>
