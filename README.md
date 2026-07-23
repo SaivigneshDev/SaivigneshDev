@@ -65,3 +65,145 @@ GOAL            Build impactful software
 - Secure a Software Engineer role
 
 ---
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,mysql" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,sqlite" />
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 🧠 Cross Domain Knowledge Mapping
+
+AI-powered knowledge graph that discovers meaningful relationships across multiple domains using **Natural Language Processing** and **Semantic Similarity**.
+
+### ⚡ Highlights
+- Intelligent Entity Recognition
+- Relationship Extraction
+- Interactive Knowledge Graph
+- Semantic Search
+- Streamlit Dashboard
+
+**Tech Stack**
+
+Python • SpaCy • NetworkX • Sentence Transformers • Streamlit
+
+<p align="center">
+<a href="https://github.com/SaivigneshDev/YOUR_REPOSITORY">
+<img src="https://img.shields.io/badge/View_Project-0D1117?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+## 💰 Employee Salary Prediction
+
+Machine Learning model that predicts employee salary categories using feature engineering and classification algorithms.
+
+### ⚡ Highlights
+
+- Data Cleaning
+- Feature Engineering
+- Model Training
+- Performance Evaluation
+- Streamlit Interface
+
+**Tech Stack**
+
+Python • Scikit-learn • Pandas • NumPy • Streamlit
+
+<p align="center">
+<a href="https://github.com/SaivigneshDev/YOUR_REPOSITORY">
+<img src="https://img.shields.io/badge/View_Project-0D1117?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌱 Currently Exploring
+
+```text
+Software Engineering
+
+Machine Learning
+
+Deep Learning
+
+Natural Language Processing
+
+Backend Development
+
+Open Source
+```
+
+---
+# 💡 Engineering Philosophy
+
+> I believe great software is created by solving real-world problems with clean, maintainable, and scalable solutions.
+
+Every project I build is an opportunity to learn something new, improve my engineering skills, and create software that delivers practical value.
+
+# 📊 GitHub Dashboard
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaivigneshDev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=SaivigneshDev&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaivigneshDev&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaivigneshDev&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SaivigneshDev&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
+</p>
+
+---
