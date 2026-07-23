@@ -79,3 +79,8 @@ Python • Machine Learning • Streamlit • FastAPI • SQL
 
 Email:
 saivigneshmarapelli@gmail.com
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Vigneshsyle77/Vigneshsyle77/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
