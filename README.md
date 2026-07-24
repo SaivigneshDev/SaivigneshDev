@@ -1,26 +1,17 @@
 <p align="center">
-  <img src="Image.png" width="100%" alt="Marapelli Saivignesh Banner"/>
+  <img src="assets/banner.png" alt="GitHub Banner" width="100%">
 </p>
-
-<h1 align="center">
-Marapelli Saivignesh
-</h1>
+<h1 align="center">Hi 👋, I'm Marapelli Saivignesh</h1>
 
 <h3 align="center">
-Software Engineer • Artificial Intelligence • Machine Learning
+Software Engineer • AI & Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-
-Building intelligent software through Machine Learning,
-problem solving, and thoughtful engineering.
-
+Building intelligent software that solves real-world problems.
 </p>
-
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineer+in+Progress;Artificial+Intelligence+Enthusiast;Machine+Learning+Developer;Python+Developer;Always+Learning+%F0%9F%9A%80" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Always+Learning+Something+New" />
 </p>
 
 ---
@@ -34,179 +25,89 @@ My interests lie in Software Engineering, Artificial Intelligence, Machine Learn
 Currently, I'm focused on strengthening my software engineering fundamentals while exploring modern AI technologies and open-source development.
 
 ---
+## 🚀 Featured Projects
 
-# ⚡ System Status
+### 🧠 Cross Domain Knowledge Mapping
 
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+An AI-powered application that extracts entities and relationships from multiple domains to build an interactive knowledge graph using Natural Language Processing.
 
-STATUS          🟢 Learning
+**Tech Stack:** Python • SpaCy • Sentence Transformers • NetworkX • Streamlit
 
-FOCUS           Software Engineering
-
-SPECIALIZATION  Artificial Intelligence
-
-CURRENT STACK   Python • Machine Learning
-
-GOAL            Build impactful software
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+🔗 **Repository:** https://github.com/SaivigneshDev/<your-repo-name>
 
 ---
 
-# 🎯 Mission 2026
+### 💰 Employee Salary Prediction
 
-- Master Software Engineering
-- Deepen Machine Learning knowledge
-- Explore Deep Learning & NLP
-- Contribute to Open Source
-- Build production-ready AI applications
-- Secure a Software Engineer role
+A Machine Learning web application that predicts employee salary categories based on demographic and employment features.
 
----
-# 💻 Tech Stack
+**Tech Stack:** Python • Pandas • NumPy • Scikit-learn • Streamlit
 
-### 👨‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,mysql" />
-</p>
-
-### 🤖 AI & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge"/>
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,sqlite" />
-</p>
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+🔗 **Repository:** https://github.com/SaivigneshDev/<your-repo-name>
 
 ---
-# 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 🚀 Coming Soon
 
-## 🧠 Cross Domain Knowledge Mapping
+Building more software engineering and AI projects.
 
-AI-powered knowledge graph that discovers meaningful relationships across multiple domains using **Natural Language Processing** and **Semantic Similarity**.
+---
 
-### ⚡ Highlights
-- Intelligent Entity Recognition
-- Relationship Extraction
-- Interactive Knowledge Graph
-- Semantic Search
-- Streamlit Dashboard
+## 💻 Tech Stack
 
-**Tech Stack**
+### Languages
 
-Python • SpaCy • NetworkX • Sentence Transformers • Streamlit
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### AI / ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+## 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/SaivigneshDev/YOUR_REPOSITORY">
-<img src="https://img.shields.io/badge/View_Project-0D1117?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
-</td>
-
-<td width="50%">
-
-## 💰 Employee Salary Prediction
-
-Machine Learning model that predicts employee salary categories using feature engineering and classification algorithms.
-
-### ⚡ Highlights
-
-- Data Cleaning
-- Feature Engineering
-- Model Training
-- Performance Evaluation
-- Streamlit Interface
-
-**Tech Stack**
-
-Python • Scikit-learn • Pandas • NumPy • Streamlit
-
-<p align="center">
-<a href="https://github.com/SaivigneshDev/YOUR_REPOSITORY">
-<img src="https://img.shields.io/badge/View_Project-0D1117?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-# 🌱 Currently Exploring
-
-```text
-Software Engineering
-
-Machine Learning
-
-Deep Learning
-
-Natural Language Processing
-
-Backend Development
-
-Open Source
-```
-
----
-# 💡 Engineering Philosophy
-
-> I believe great software is created by solving real-world problems with clean, maintainable, and scalable solutions.
-
-Every project I build is an opportunity to learn something new, improve my engineering skills, and create software that delivers practical value.
-
-# 📊 GitHub Dashboard
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaivigneshDev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=SaivigneshDev&theme=github-dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaivigneshDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaivigneshDev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaivigneshDev&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=SaivigneshDev&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
+## 🌱 Currently Learning
 
-# 📈 Contribution Graph
+- Backend Development
+- Deep Learning
+- Data Structures & Algorithms
+- Software Engineering Best Practices
+---
+## 📜 Certifications
 
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaivigneshDev&theme=github-compact&hide_border=true"/>
-</p>
+- 🎓 Infosys Springboard
+- 🎓 Coursera
+---
+## 🤝 Connect With Me
 
+- 💼 LinkedIn: https://linkedin.com/in/saivignesh-marapelli
+- 📧 Email: saivigneshmarapelli@gmail.com
+- 💻 GitHub: https://github.com/SaivigneshDev
 ---
 
-# 🏆 GitHub Achievements
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SaivigneshDev&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
-</p>
-
----
 # 🐍 Contribution Snake
 
 <p align="center">
