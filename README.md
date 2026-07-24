@@ -76,45 +76,76 @@ Building more software engineering and AI projects.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaivigneshDev&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaivigneshDev&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaivigneshDev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SaivigneshDev&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=SaivigneshDev&theme=tokyonight&hide_border=true"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=SaivigneshDev&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaivigneshDev&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaivigneshDev&style=for-the-badge&color=0e75b6" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaivigneshDev&theme=algolia&no-frame=true&margin-w=15&row=1" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SaivigneshDev/SaivigneshDev/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🌱 Currently Learning
 
 - Backend Development
 - Deep Learning
 - Data Structures & Algorithms
 - Software Engineering Best Practices
+  
 ---
+
 ## 📜 Certifications
 
 - 🎓 Infosys Springboard
 - 🎓 Coursera
+  
 ---
+
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/saivignesh-marapelli
 - 📧 Email: saivigneshmarapelli@gmail.com
 - 💻 GitHub: https://github.com/SaivigneshDev
+  
 ---
 
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/SaivigneshDev/SaivigneshDev/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 # 🤝 Connect With Me
 
 <p align="center">
@@ -130,6 +161,7 @@ Building more software engineering and AI projects.
 </p>
 
 ---
+
 <p align="center">
 
 ### Code with Curiosity • Build with Purpose • Never Stop Learning
